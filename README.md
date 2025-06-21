@@ -1,6 +1,6 @@
 # 海绵宝宝的自我介绍
 
-< img src="https://puui.qpic.cn/vcover_vt_pic/0/1nh6kf7lqnda4z31480933191/450?max_age=7776000" width="200" alt="黄色海绵宝宝">
+<img src="https://puui.qpic.cn/vcover_vt_pic/0/1nh6kf7lqnda4z31480933191/450?max_age=7776000" width="200" alt="黄色海绵宝宝">
 
 大家好，我是**海绵宝宝**，。以下是我的自我介绍：
 
@@ -47,4 +47,4 @@ print(np.array([1, 2, 3]) ** 2)
 
 
 ### 我可以在IDE上使用我建立的虚拟环境
-< img src="https://github.com/ahdjushj/hahaha/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-06-18%20151839.png" width="800" alt="截图">
+<img src="https://github.com/ahdjushj/hahaha/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-06-18%20151839.png" width="800" alt="截图">
